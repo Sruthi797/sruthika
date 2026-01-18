@@ -8,7 +8,8 @@
 - Tracks product and food expiry dates
 - Sends alerts to reduce waste
 - Focused on sustainability and inventory management
-  -Repo link:
+
+Repo link:
 - https://github.com/Sruthi797/-Smart-Expiry-Intelligence-System-for-Sustainable-Inventory-Management
 
 🔹 Technical Skills
